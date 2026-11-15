@@ -1,0 +1,1 @@
+# day1-numpy-vector-calculations
